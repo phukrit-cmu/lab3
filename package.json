@@ -1,0 +1,16 @@
+{
+  "name": "lab3",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "axios": "^1.10.0",
+    "elysia": "^1.3.5"
+  }
+}
