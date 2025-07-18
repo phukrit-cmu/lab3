@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # lab4 Student ID: 672110154
 
 To install dependencies:
